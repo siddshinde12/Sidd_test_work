@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.howtodoinjava.rest.EmployeeControllerIntegrationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.041 s - in com.howtodoinjava.rest.EmployeeControllerIntegrationTests
